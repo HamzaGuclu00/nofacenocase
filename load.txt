@@ -1,0 +1,1 @@
+oadstring(game:HttpGet('https://raw.githubusercontent.com/HamzaGuclu00/likefood/main/README.md?token=GHSAT0AAAAAACBBLMJAMJLOFAAVPDLGR5WWZBNRWXQ'))()
